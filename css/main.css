@@ -1,0 +1,25 @@
+.movieEl{
+    border: 1px solid red;
+    height: 450px;
+    border-radius: 10px;
+}
+
+.imgEl{
+    margin-left: 30px;
+    width: 350px;
+    height: 150px;
+}
+
+.titleEl{
+    display: flex;
+    justify-content: center;
+}
+
+.btnLL{
+    width: 200px;
+    height:40px;
+    margin-left:110px;
+    border-radius: 10px;
+    background-color: rgb(255, 0, 0);
+}
+
